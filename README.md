@@ -1,3 +1,4 @@
+
 ## D3.js for Family Trees
 
 Someday a brilliant coder will merge functionality like these into one interface...  
@@ -8,3 +9,10 @@ Someday a brilliant coder will merge functionality like these into one interface
 - [Force Graph and "Play"](http://bengarvey.com/lineage/) - [Github](https://github.com/bengarvey/lineage) 
 
 - [Lifespan using GEDCOM - Needs to be pivoted Left-to-Right](https://learnforeverlearn.com/ancestors/?lifespan=true)  
+
+### To contribute:  
+
+A. Fork an existing [familytrees repo](https://github.com/familytreesnet/).  
+B. Or fork the [wiki repo](https://github.com/familytreesnet/wiki/), rename it to your family name, add content, post an issue to pull your repo into  familytrees.net.  
+
+
