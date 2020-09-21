@@ -10,9 +10,13 @@ Someday a brilliant coder will merge functionality like these into one interface
 
 - [Lifespan using GEDCOM - Needs to be pivoted Left-to-Right](https://learnforeverlearn.com/ancestors/?lifespan=true)  
 
-### To contribute:  
+### Several ways to contribute:  
 
-A. Fork an existing [familytrees repo](https://github.com/familytreesnet/) and add your family stories.  
-B. Or fork the [wiki repo](https://github.com/familytreesnet/wiki/), rename it to your family name, add content, post an issue requesting to pull your repo into  familytrees.net.  
+A. Find your surname above and login to collaborate.  
+B. Fork an existing [familytrees repo](https://github.com/familytreesnet/) and add your family stories.  
+C. [Post an issue](https://github.com/FamilyTreesNet/wiki/issues) to request creating a repo. $30 initial set up fee is payable via PayPal.
+<!--
+Or fork this [wiki repo](https://github.com/familytreesnet/wiki/), rename it to your family name, add content, and send a pull request.  
+-->
 
 
