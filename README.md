@@ -12,7 +12,7 @@ Someday a brilliant coder will merge functionality like these into one interface
 
 ### To contribute:  
 
-A. Fork an existing [familytrees repo](https://github.com/familytreesnet/).  
-B. Or fork the [wiki repo](https://github.com/familytreesnet/wiki/), rename it to your family name, add content, post an issue to pull your repo into  familytrees.net.  
+A. Fork an existing [familytrees repo](https://github.com/familytreesnet/) and add your family stories.  
+B. Or fork the [wiki repo](https://github.com/familytreesnet/wiki/), rename it to your family name, add content, post an issue requesting to pull your repo into  familytrees.net.  
 
 
